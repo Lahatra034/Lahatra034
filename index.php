@@ -1,1 +1,0 @@
-<?php echo "Le test est OK"; ?>
